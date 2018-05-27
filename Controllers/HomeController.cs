@@ -29,6 +29,13 @@ namespace TableSite.Controllers
             return View();
         }
 
+        public IActionResult TestPage()
+        {
+            ViewData["Message"] = "Your Navigation test page";
+
+            return View();
+        }
+
         public IActionResult Error()
         {
             return View(new ErrorViewModel { RequestId = Activity.Current?.Id ?? HttpContext.TraceIdentifier });

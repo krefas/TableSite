@@ -1,0 +1,11 @@
+C:\Users\NBotvin\Source\Repos\TableSite\TableSite\bin\Debug\netcoreapp2.0\TableSite.deps.json
+C:\Users\NBotvin\Source\Repos\TableSite\TableSite\bin\Debug\netcoreapp2.0\TableSite.runtimeconfig.json
+C:\Users\NBotvin\Source\Repos\TableSite\TableSite\bin\Debug\netcoreapp2.0\TableSite.runtimeconfig.dev.json
+C:\Users\NBotvin\Source\Repos\TableSite\TableSite\bin\Debug\netcoreapp2.0\TableSite.dll
+C:\Users\NBotvin\Source\Repos\TableSite\TableSite\bin\Debug\netcoreapp2.0\TableSite.pdb
+C:\Users\NBotvin\Source\Repos\TableSite\TableSite\obj\Debug\netcoreapp2.0\TableSite.csprojResolveAssemblyReference.cache
+C:\Users\NBotvin\Source\Repos\TableSite\TableSite\obj\Debug\netcoreapp2.0\TableSite.csproj.CoreCompileInputs.cache
+C:\Users\NBotvin\Source\Repos\TableSite\TableSite\obj\Debug\netcoreapp2.0\TableSite.AssemblyInfoInputs.cache
+C:\Users\NBotvin\Source\Repos\TableSite\TableSite\obj\Debug\netcoreapp2.0\TableSite.AssemblyInfo.cs
+C:\Users\NBotvin\Source\Repos\TableSite\TableSite\obj\Debug\netcoreapp2.0\TableSite.dll
+C:\Users\NBotvin\Source\Repos\TableSite\TableSite\obj\Debug\netcoreapp2.0\TableSite.pdb
